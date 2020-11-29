@@ -1,9 +1,9 @@
 # Sentiment Analysis of Social Media Data on Perception Towards the COVID-19 Vaccine
 
-## Once your command line is open, enter these commands to make sure it has latest version:
+## Once your command line is open, enter these commands:
 python --version <br/>
-pip --version
-
+pip --version <br/>
+Make sure they're latest version
 
 ## Next, you’ll need to install keras, sklearn and nltk. At the command line, type
 pip install keras <br/>
