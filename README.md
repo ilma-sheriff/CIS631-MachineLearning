@@ -6,9 +6,9 @@ pip --version
 
 
 ## Next, you’ll need to install keras, sklearn and nltk. At the command line, type
-pip install keras
-pip install sklearn
-pip install nltk
+pip install keras <br/>
+pip install sklearn <br/>
+pip install nltk <br/>
 
 # Run the project in Jupyter Notebook
 ### Clone the repo git clone https://github.com/ilma-sheriff/CIS631-MachineLearning.git or download code files.
