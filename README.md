@@ -12,7 +12,7 @@ pip install nltk <br/>
 
 # Run the project in Jupyter Notebook
 ### Clone the repo: 'git clone https://github.com/ilma-sheriff/CIS631-MachineLearning.git' or download code files.
-#### Step 1: cd CIS631-MachineLearning - make sure all the datasets(combined_data_gather_twitter_Oct_30.csv and tweetdata.csv) and jupyter notbook files(Twitter_sentiment_analysis_covid19vaccine.ipynb, Deep Learning - Neural Network Model.ipynb, Deep Learning Model LSTM.ipynb, Random Forest Model.ipynb,SVM Model.ipynb) are in this directory
+#### Step 1: cd CIS631-MachineLearning - make sure all the datasets(combined_data_gather_twitter_Oct_30.csv and tweetdata.csv) and jupyter notbook files (Twitter_sentiment_analysis_covid19vaccine.ipynb, Deep Learning - Neural Network Model.ipynb, Deep Learning Model LSTM.ipynb, Random Forest Model.ipynb, SVM Model.ipynb) are in this directory
 #### Step 2: Run file Twitter_sentiment_analysis_covid19vaccine.ipynb (Run all cells) 
 ##### Twitter_sentiment_analysis_covid19vaccine contains:
 ###### Exploratory Twitter Data Analysis
