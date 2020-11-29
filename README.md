@@ -24,5 +24,9 @@ pip install nltk
 ##### SVM Model contains: 
 ###### Support Vector Machine Classifer - Machine Learning Model
 #### Step 5: Run file Deep Learning - Neural Network Model.ipynb 
+##### Deep Learning - Neural Network Model contains: 
+###### Neural Network Model - Deep Learning Model
 #### Step 6: Run file Deep Learning Model LSTM.ipynb 
+##### Deep Learning Model LSTM contains: 
+###### Long short-term memory - Deep Learning Model
 
