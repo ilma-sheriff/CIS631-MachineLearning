@@ -14,6 +14,6 @@ pip install nltk
 ### Clone the repo git clone https://github.com/ilma-sheriff/CIS631-MachineLearning.git or download code files.
 * cd CIS631-MachineLearning - make sure all the datasets(combined_data_gather_twitter_Oct_30.csv and tweetdata.csv) and jupyter notbook files are in this directory
 
-### Steps to run the project file.
-* 
+Step 1: Open terminal and run Jupyter Notebook
+
 
