@@ -21,6 +21,8 @@ pip install nltk
 ##### Random Forest Model contains: 
 ###### Random Forest Classifer - Machine Learning Model
 #### Step 4: Run file SVM Model.ipynb 
+##### SVM Model contains: 
+###### Support Vector Machine Classifer - Machine Learning Model
 #### Step 5: Run file Deep Learning - Neural Network Model.ipynb 
 #### Step 6: Run file Deep Learning Model LSTM.ipynb 
 
