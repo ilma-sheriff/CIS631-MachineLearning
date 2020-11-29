@@ -19,14 +19,14 @@ pip install nltk <br/>
 ###### Naive Bayes Classifer and initial Random Forest Classifer - Machine Learning Models. 
 #### Step 3: Run file Random Forest Model.ipynb 
 ##### Random Forest Model contains: 
-###### Random Forest Classifer - Machine Learning Model
+###### Random Forest Classifer (RF) - Machine Learning Model
 #### Step 4: Run file SVM Model.ipynb 
 ##### SVM Model contains: 
-###### Support Vector Machine Classifer - Machine Learning Model
+###### Support Vector Machine Classifer (SVM) - Machine Learning Model
 #### Step 5: Run file Deep Learning - Neural Network Model.ipynb 
 ##### Deep Learning - Neural Network Model contains: 
-###### Neural Network Model - Deep Learning Model
+###### Neural Network Model (DNN) - Deep Learning Model
 #### Step 6: Run file Deep Learning Model LSTM.ipynb 
 ##### Deep Learning Model LSTM contains: 
-###### Long short-term memory - Deep Learning Model
+###### Long short-term memory (LSTM)- Deep Learning Model
 
