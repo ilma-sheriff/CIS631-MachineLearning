@@ -1,3 +1,6 @@
+The spread of the novel Coronavirus has taken over the world stagnant and impacted many aspects of our daily and social life. The World Health Organization (WHO) has declared COVID-19 as a pandemic due to droplet-based transmission and an unprecedented death rate. Furthermore, the lack of vaccinations for this novel disease, the internet has been flooded with rising concerns about public safety and well-being. Using sentiment analysis - a supervised machine learning technique, the data can be analyzed and can be further used by public health agencies to design new interventions against the spread of this disease. In this research, we propose a framework for analyzing and classifying public sentiments on the COVID-19 vaccine using Twitter data. In the proposed framework, each tweet is first assigned a polarity score ranging from -1 to 1 using TextBlob, a Python library for Natural Language Processing and Sentiment analysis. Following which, novel machine learning models are implemented to classify tweets based on polarity scores from TextBlob - into negative, neutral, and positive discrete classes. This project also leveraged various machine learning and deep learning techniques to classify Tweets.
+
+
 # Sentiment Analysis of Social Media Data on Perception Towards the COVID-19 Vaccine
 
 ## Once your command line is open, enter these commands:
